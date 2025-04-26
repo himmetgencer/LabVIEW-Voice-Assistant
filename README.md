@@ -10,7 +10,7 @@ chmod +x setup.sh  # Give execute permission
 ./setup.sh         # Run setup
 ```
 
-## Usage
+## Usage Python
 ```bash
 source venv/bin/activate  # Activate venv
 python3 Sound_Command.py  # Run project
