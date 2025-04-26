@@ -10,6 +10,11 @@ chmod +x setup.sh  # Give execute permission
 ./setup.sh         # Run setup
 ```
 
+## Usage LabVIEW
+```bash
+Run Sound_LV_Python.vi  # Run vi
+```
+
 ## Usage Python
 ```bash
 source venv/bin/activate  # Activate venv
